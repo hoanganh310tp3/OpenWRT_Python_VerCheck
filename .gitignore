@@ -1,0 +1,17 @@
+# .gitignore
+openwrt/bin/
+openwrt/build_dir/
+openwrt/staging_dir/
+openwrt/tmp/
+*.ipk
+*.bin
+*.img
+*.gz
+*.tar
+*.patch
+*.log
+*.o
+*.so
+*.pyc
+__pycache__/
+output/
